@@ -1,4 +1,4 @@
-# 👋 Привет, я [Ваше Имя]!
+# 👋 Привет, я FreshGame!
 
 <div align="center">
   
