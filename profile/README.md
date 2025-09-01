@@ -3,7 +3,7 @@
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FreshGame1&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FreshGame1&layout=compact&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FreshLend&layout=compact&theme=radical)
   
 </div>
 
