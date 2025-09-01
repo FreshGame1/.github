@@ -75,16 +75,6 @@
   </tr>
 </table>
 
-## 📫 Как со мной связаться
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-freshlend.studio@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freshlend.studio@gmail.com)
-
-</div>
-
----
-
 <div align="center">
 
   Visitors
