@@ -43,34 +43,34 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Проект 1</h3>
+      <h3 align="center">Petya_Ai</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/350x200/6082B6/FFFFFF?text=Проект+1" alt="Проект 1">
+        <img src="https://freshlend.github.io/data/images/petya_ai/petya_ai.png" alt="Проект 1">
       </div>
       <p align="center">
-        <a href="https://github.com/ВАШ_USERNAME/ПРОЕКТ-1">
-          <img src="https://img.shields.io/badge/Код-Repository-blue?style=for-the-badge" alt="Repository">
+        <a href="https://discord.com/oauth2/authorize?client_id=1137405206288666634">
+          <img src="https://img.shields.io/badge/Add%20To%20Discord-blue?style=for-the-badge" alt="Repository">
         </a>
-        <a href="https://ВАШ-САЙТ.com">
-          <img src="https://img.shields.io/badge/Демо-Live-green?style=for-the-badge" alt="Live Demo">
+        <a href="https://freshlend.github.io/projects/petya_ai">
+          <img src="https://img.shields.io/badge/Bot%20Page-green?style=for-the-badge" alt="Live Demo">
         </a>
       </p>
-      <p><strong>Краткое описание:</strong> Опишите ваш проект, его цели и технологии, которые вы использовали.</p>
+      <p><strong>Краткое описание:</strong> Умный Discord бот с искусственным интеллектом.</p>
     </td>
     <td width="50%">
-      <h3 align="center">Проект 2</h3>
+      <h3 align="center">Flauncher</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/350x200/6082B6/FFFFFF?text=Проект+2" alt="Проект 2">
+        <img src="https://freshlend.github.io/data/images/flauncher/flauncher.png" alt="Проект 2">
       </div>
       <p align="center">
-        <a href="https://github.com/ВАШ_USERNAME/ПРОЕКТ-2">
+        <a href="https://github.com/FreshLend/FLauncher">
           <img src="https://img.shields.io/badge/Код-Repository-blue?style=for-the-badge" alt="Repository">
         </a>
-        <a href="https://ВАШ-САЙТ.com">
-          <img src="https://img.shields.io/badge/Демо-Live-green?style=for-the-badge" alt="Live Demo">
+        <a href="https://drive.google.com/file/d/1H9M1bupWB_pGmeGQVHFAFgWGAv-BRu-z/view">
+          <img src="https://img.shields.io/badge/Download-green?style=for-the-badge" alt="Live Demo">
         </a>
       </p>
-      <p><strong>Краткое описание:</strong> Опишите ваш проект, его цели и технологии, которые вы использовали.</p>
+      <p><strong>Краткое описание:</strong> FLauncher - VoxelCore Лаунчер на Python.</p>
     </td>
   </tr>
 </table>
@@ -86,8 +86,10 @@
 ---
 
 <div align="center">
-  
+
+  Visitors
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=FreshGame1.FreshGame1)
-  ![Organization Visitors](https://visitor-badge.laobi.icu/badge?page_id=FreshLend.FreshLend)
+  Organization Visitors
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=FreshLend.FreshLend)
   
 </div>
