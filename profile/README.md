@@ -49,10 +49,10 @@
       </div>
       <p align="center">
         <a href="https://discord.com/oauth2/authorize?client_id=1137405206288666634">
-          <img src="https://img.shields.io/badge/Add%20To%20Discord-blue?style=for-the-badge" alt="Repository">
+          <img src="https://img.shields.io/badge/Add%20To-Discord-blue?style=for-the-badge" alt="Repository">
         </a>
         <a href="https://freshlend.github.io/projects/petya_ai">
-          <img src="https://img.shields.io/badge/Bot%20Page-green?style=for-the-badge" alt="Live Demo">
+          <img src="https://img.shields.io/badge/Bot-Page-green?style=for-the-badge" alt="Live Demo">
         </a>
       </p>
       <p><strong>Краткое описание:</strong> Умный Discord бот с искусственным интеллектом.</p>
