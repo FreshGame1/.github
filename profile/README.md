@@ -89,7 +89,5 @@
 
   Visitors
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=FreshGame1.FreshGame1)
-  Organization Visitors
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=FreshLend.FreshLend)
   
 </div>
