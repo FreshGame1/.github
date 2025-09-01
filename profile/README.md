@@ -1,4 +1,4 @@
-# 👋 Привет, я FreshGame!
+# 👋 Привет, я FreshGame! ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=FreshGame1.FreshGame1)
 
 <div align="center">
   
@@ -74,9 +74,3 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=FreshGame1.FreshGame1)
-  
-</div>
