@@ -77,7 +77,6 @@
 
 <div align="center">
 
-  Visitors
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=FreshGame1.FreshGame1)
   
 </div>
