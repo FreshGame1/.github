@@ -64,7 +64,7 @@
       </div>
       <p align="center">
         <a href="https://github.com/FreshLend/FLauncher">
-          <img src="https://img.shields.io/badge/Код-Repository-blue?style=for-the-badge" alt="Repository">
+          <img src="https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge" alt="Repository">
         </a>
         <a href="https://drive.google.com/file/d/1H9M1bupWB_pGmeGQVHFAFgWGAv-BRu-z/view">
           <img src="https://img.shields.io/badge/Download-green?style=for-the-badge" alt="Live Demo">
