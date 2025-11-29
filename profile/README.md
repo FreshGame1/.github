@@ -31,7 +31,6 @@
 
 ## 📈 Моя активность
 
-<!-- GitHub статистика -->
 <div align="center">
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FreshGame1&theme=radical)
@@ -55,7 +54,7 @@
           <img src="https://img.shields.io/badge/Bot-Page-green?style=for-the-badge" alt="Live Demo">
         </a>
       </p>
-      <p><strong>Краткое описание:</strong> Умный Discord бот с искусственным интеллектом.</p>
+      <p><strong>Описание:</strong> Умный Discord бот с искусственным интеллектом.</p>
     </td>
     <td width="50%">
       <h3 align="center">Flauncher</h3>
@@ -70,7 +69,7 @@
           <img src="https://img.shields.io/badge/Download-green?style=for-the-badge" alt="Live Demo">
         </a>
       </p>
-      <p><strong>Краткое описание:</strong> FLauncher - VoxelCore Лаунчер на Python.</p>
+      <p><strong>Описание:</strong> FLauncher - VoxelCore Лаунчер на Python.</p>
     </td>
   </tr>
 </table>
