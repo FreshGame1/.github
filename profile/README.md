@@ -2,8 +2,8 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FreshGame1&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FreshGame1&layout=compact&theme=radical)
+  ![GitHub Stats](https://github-readme-stats-six-mocha.vercel.app/api?username=FreshGame1&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats-six-mocha.vercel.app/api/top-langs/?username=FreshGame1&layout=compact&theme=radical)
   
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FreshGame1&theme=radical)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=FreshGame1&theme=radical&hide_border=true&hide_total_contributions=true)](https://git.io/streak-stats)
   
 </div>
 
