@@ -28,14 +28,6 @@
 
 </div>
 
-## 📈 Моя активность
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=FreshGame1&theme=radical&hide_border=true&hide_total_contributions=true)](https://git.io/streak-stats)
-  
-</div>
-
 ## 🏆 Мои лучшие проекты
 
 <table>
