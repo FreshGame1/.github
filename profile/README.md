@@ -2,8 +2,8 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats-six-mocha.vercel.app/api?username=FreshGame1&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats-six-mocha.vercel.app/api/top-langs/?username=FreshGame1&layout=compact&theme=radical)
+  ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=FreshGame1&show_icons=true&theme=radical&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
+  ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=FreshGame1&layout=compact&theme=radical&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
   
 </div>
 
@@ -32,32 +32,62 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="25%">
+      <h3 align="center">SWARM</h3>
+      <div align="center">
+        <img src="https://github.com/FreshLend/O.N.Y.X./raw/main/icon.png" alt="SWARM">
+      </div>
+      <p align="center">
+        <a href="https://github.com/FreshLend/SWARM">
+          <img src="https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge" alt="Repository">
+        </a>
+      </p>
+      <p><strong>Описание:</strong> Модульная десктопная экосистема</p>
+    </td>
+    <td width="25%">
+      <h3 align="center">MusicForge</h3>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/FreshLend/MusicForge-Web/main/static/favicon.ico" alt="MusicForge">
+      </div>
+      <p align="center">
+        <a href="https://github.com/FreshLend/MusicForge-Web">MusicForge-Web
+          <img src="https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge" alt="Repository">
+        </a>
+        <a href="https://github.com/FreshLend/MusicForge-Desktop">MusicForge-Desktop
+          <img src="https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge" alt="Repository">
+        </a>
+        <a href="https://github.com/FreshLend/MusicForge-Desktop/releases/latest">
+          <img src="https://img.shields.io/badge/Download-green?style=for-the-badge">
+        </a>
+      </p>
+      <p><strong>Описание:</strong> Ваша собственная музыкальная платформа</p>
+    </td>
+    <td width="25%">
       <h3 align="center">Petya_Ai</h3>
       <div align="center">
-        <img src="https://freshlend.github.io/data/images/petya_ai/petya_ai.png" alt="Проект 1">
+        <img src="https://freshlend.github.io/data/images/petya_ai/petya_ai.png" alt="Petya_Ai">
       </div>
       <p align="center">
         <a href="https://discord.com/oauth2/authorize?client_id=1137405206288666634">
           <img src="https://img.shields.io/badge/Add%20To-Discord-blue?style=for-the-badge" alt="Repository">
         </a>
         <a href="https://freshlend.github.io/projects/petya_ai">
-          <img src="https://img.shields.io/badge/Bot-Page-green?style=for-the-badge" alt="Live Demo">
+          <img src="https://img.shields.io/badge/Bot-Page-green?style=for-the-badge">
         </a>
       </p>
       <p><strong>Описание:</strong> Умный Discord бот с искусственным интеллектом.</p>
     </td>
-    <td width="50%">
+    <td width="25%">
       <h3 align="center">Flauncher</h3>
       <div align="center">
-        <img src="https://freshlend.github.io/data/images/flauncher/flauncher.png" alt="Проект 2">
+        <img src="https://freshlend.github.io/data/images/flauncher/flauncher.png" alt="Flauncher">
       </div>
       <p align="center">
         <a href="https://github.com/FreshLend/FLauncher">
           <img src="https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge" alt="Repository">
         </a>
-        <a href="https://drive.google.com/file/d/1H9M1bupWB_pGmeGQVHFAFgWGAv-BRu-z/view">
-          <img src="https://img.shields.io/badge/Download-green?style=for-the-badge" alt="Live Demo">
+        <a href="https://github.com/FreshLend/FLauncher/releases/latest">
+          <img src="https://img.shields.io/badge/Download-green?style=for-the-badge">
         </a>
       </p>
       <p><strong>Описание:</strong> FLauncher - VoxelCore Лаунчер на Python.</p>
